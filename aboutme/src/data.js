@@ -60,6 +60,6 @@ export const projects = [
     "Django",
     "React",
     "Cybersecurity",
-    "Problem soliving",
+    "Problem solving",
   ];
   
