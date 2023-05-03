@@ -53,7 +53,7 @@ export const projects = [
   export const skills = [
     "Python",
     "Java",
-    "Leadership",
+    "Flutter, Dart",
     "Html, CSS, JavaScript",
     "Delphi",
     "Cloud practitioning",
