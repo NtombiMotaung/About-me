@@ -18,7 +18,7 @@ export default function Life() {
       <div class="px-6 py-4">
         <div class="font-bold text-xl mb-2">Software Developer</div>
         <p class="text-gray-700 text-base">
-        Give me a computer and let me do what I do best. I am currently a 2nd year software development student at WeThinkCode_ . I am fascinated by writing code to solve real world problems and learning new programming languages. 
+        Give me a computer and let me do what I do best. I completed a software development course at WeThinkCode_ . I am fascinated by writing code to solve real world problems and learning new programming languages. 
         </p>
       </div>
       <div class="px-6 pt-4 pb-2">
