@@ -15,18 +15,19 @@ export default function About() {
           </h1>
           
           <p className="mb-8 leading-relaxed">
-            I am a software developer in the making. I enjoy solving real world problems through technology.
-          
+          I am a graduate in Software Engineering from WeThinkCode_. 
+          My passion and aptitude for coding have been evident throughout my academic and 
+          professional journey, driving my dedication to excel in the field of software engineering.          
           </p>
           <div className="flex justify-center">
             <a
               href="https://www.linkedin.com/in/ntombifuthi-motaung-95a74a207/"
-              className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
+              className="inline-flex text-black-400 bg-pink-700 border-0 py-2 px-6 focus:outline-none hover:bg-pink-300 rounded text-lg">
               Contact me
             </a>
             <a
               href="#projects"
-              className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
+              className="ml-4 inline-flex text-black-400 bg-pink-700 border-0 py-2 px-6 focus:outline-none hover:bg-pink-300 hover:text-white rounded text-lg">
               See My Past Work
             </a>
           </div>
@@ -35,7 +36,7 @@ export default function About() {
           <img
             className="h-50 w-96"
             alt="hero"
-            src="./feature.jpeg"
+            src="./index.jpg"
           />
         </div>
       </div>

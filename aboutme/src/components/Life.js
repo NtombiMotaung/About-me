@@ -14,7 +14,7 @@ export default function Life() {
  <div class="p-10 grid grid-cols-1 sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-3 gap-5">
     {/* <!--Card 1--> */}
     <div class="rounded overflow-hidden shadow-lg">
-      <img class="w-96" src="./me.jpg" alt="Mountain"/>
+      <img class="w-96" src="./grad.jpeg" alt="Mountain"/>
       <div class="px-6 py-4">
         <div class="font-bold text-xl mb-2">Software Developer</div>
         <p class="text-gray-700 text-base">
@@ -29,14 +29,13 @@ export default function Life() {
     </div>
         {/* <!--Card 1--> */}
         <div class="rounded overflow-hidden shadow-lg">
-      <img class="w-96 h-96" src="./mentor.jpeg" alt="Mountain"/>
+      <img class="w-96 " src="./work.jpeg" alt="Mountain"/>
       <div class="px-6 py-4">
-        <div class="font-bold text-xl mb-2">Tech Mentor</div>
+        <div class="font-bold text-xl mb-2">Learning Specialist</div>
         <p class="text-gray-700 text-base">
-          As a tech mentor, I have to mentor the first year students and guide them in their coding journey.
-          Host workshops and retros for my mentees, host
- Host one-on-ones for each mentee weekly and 
- Host code pairing sessions weekly
+        I am employed as a Full Stack Web Development Learning Specialist at 2U for the edX bootcamps. 
+        In this role, I provide assistance to students, guiding them through challenging assignments and ensuring their
+         understanding of the curriculum. Additionally, I mark their assignments as well.
         </p>
       </div>
       <div class="px-6 pt-4 pb-2">
@@ -47,7 +46,7 @@ export default function Life() {
     </div>
     {/* card2 */}
     <div class="rounded overflow-hidden shadow-lg">
-      <img class="w-96" src="./outing.jpeg" alt="River"/>
+      <img class="w-96" src="./fun.jpeg" alt="River"/>
       <div class="px-6 py-4">
         <div class="font-bold text-xl mb-2">Pageant Model</div>
         <p class="text-gray-700 text-base">
