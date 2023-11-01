@@ -40,8 +40,8 @@ export default function Life() {
       </div>
       <div class="px-6 pt-4 pb-2">
         <span class="inline-block bg-pink-600 rounded-full px-3 py-1 text-sm font-semibold text-black mr-2 mb-2">#leadership</span>
-        <span class="inline-block bg-pink-600 rounded-full px-3 py-1 text-sm font-semibold text-black mr-2 mb-2">#empower</span>
-        <span class="inline-block bg-pink-600 rounded-full px-3 py-1 text-sm font-semibold text-black mr-2 mb-2">#learn</span>
+        <span class="inline-block bg-pink-600 rounded-full px-3 py-1 text-sm font-semibold text-black mr-2 mb-2">#education</span>
+        <span class="inline-block bg-pink-600 rounded-full px-3 py-1 text-sm font-semibold text-black mr-2 mb-2">#full stack</span>
       </div>
     </div>
     {/* card2 */}
