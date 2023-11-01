@@ -22,13 +22,13 @@ export default function Life() {
         </p>
       </div>
       <div class="px-6 pt-4 pb-2">
-        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#hack</span>
-        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#innovation</span>
-        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#developforthefuture</span>
+        <span class="inline-block bg-pink-600 rounded-full px-3 py-1 text-sm font-semibold text-black mr-2 mb-2">#hack</span>
+        <span class="inline-block bg-pink-600 rounded-full px-3 py-1 text-sm font-semibold text-black mr-2 mb-2">#innovation</span>
+        <span class="inline-block bg-pink-600 rounded-full px-3 py-1 text-sm font-semibold text-black mr-2 mb-2">#developforthefuture</span>
       </div>
     </div>
         {/* <!--Card 1--> */}
-        <div class="rounded overflow-hidden shadow-lg">
+        <div class="rounded overflow-hidden shadow-lg ">
       <img class="w-96 " src="./work.jpeg" alt="Mountain"/>
       <div class="px-6 py-4">
         <div class="font-bold text-xl mb-2">Learning Specialist</div>
@@ -39,9 +39,9 @@ export default function Life() {
         </p>
       </div>
       <div class="px-6 pt-4 pb-2">
-        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#leadership</span>
-        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#empower</span>
-        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#learn</span>
+        <span class="inline-block bg-pink-600 rounded-full px-3 py-1 text-sm font-semibold text-black mr-2 mb-2">#leadership</span>
+        <span class="inline-block bg-pink-600 rounded-full px-3 py-1 text-sm font-semibold text-black mr-2 mb-2">#empower</span>
+        <span class="inline-block bg-pink-600 rounded-full px-3 py-1 text-sm font-semibold text-black mr-2 mb-2">#learn</span>
       </div>
     </div>
     {/* card2 */}
@@ -56,9 +56,9 @@ export default function Life() {
         </p>
       </div>
       <div class="px-6 pt-4 pb-2">
-        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#photography</span>
-        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#model</span>
-        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#lifestyle</span>
+        <span class="inline-block bg-pink-600 rounded-full px-3 py-1 text-sm font-semibold text-black mr-2 mb-2">#photography</span>
+        <span class="inline-block bg-pink-600 rounded-full px-3 py-1 text-sm font-semibold text-black mr-2 mb-2">#model</span>
+        <span class="inline-block bg-pink-600 rounded-full px-3 py-1 text-sm font-semibold text-black mr-2 mb-2">#lifestyle</span>
       </div>
     </div>
     </div>
